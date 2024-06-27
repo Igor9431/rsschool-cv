@@ -24,5 +24,6 @@ I am 30 years old, I own my own sole proprietorship, and have worked in various 
 ## Education
 - 2012-2016 Ukhta State Technical University (USTU)
 - 2024 Student RS school, stage 0
+
 ## English Language
 English (A0)
