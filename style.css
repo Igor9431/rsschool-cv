@@ -21,6 +21,7 @@
     align-items: center;
     box-shadow: 0 0 5px;
     border-radius: 15px;
+    margin-bottom: 15px;
 }   
 .about-me {
     background-color: #5e9784;
@@ -149,4 +150,3 @@
 .social-buttons p {
     padding-left: 10px;
 }
-
